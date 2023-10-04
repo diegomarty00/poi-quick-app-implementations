@@ -34,20 +34,17 @@
                     "urls": [ "https://kontactsport.es/" ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    "id": "99400270762",
+                    "lat": "43.3547404",
+                    "lon": "-5.8519116",
+                    "type": "sport center",
+                    "name": "Cowper",
+                    "images": ["https://estaticos-cdn.prensaiberica.es/clip/30e5e94f-92c9-43da-af48-00275381bae0_16-9-aspect-ratio_default_0.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "Desde las verdes tierras de Asturias, en 1992, surgió un club que no tardaría en dejar una huella imborrable en el paisaje rugbístico regional: el Cowper Rugby Club. Con su nacimiento, no solo se inauguró un equipo más, sino que se instauró una tradición y una pasión que ha traspasado generaciones.",
+                    "more": "",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "http://www.cowperuniversidadoviedo.es/"
                     ]
                 }
             ]
