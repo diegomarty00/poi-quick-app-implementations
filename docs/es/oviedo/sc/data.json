@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "es.espinr.es.oviedo.sc",
-        "app_title": "Oviedo's Sport Clubs",
+        "app_title": "Oviedo's Sport Centers",
         "version": 1,
         "updated": "2022-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/es/ovido/sc/data.json",
@@ -16,28 +16,22 @@
                     "complementary": "##fcd200"
                 },
                 "repository_url": "https://github.com/diegomarty00/poi-quick-app-implementations/tree/main/docs/es/oviedo/sc",
-                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_info": "This app is created by Sport Centers who are in Oviedo.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
-                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
-                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/es/oviedo/sc/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=es/oviedo&template=update_request.md&title=Update%20Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
+                    "id": "99400270761",
+                    "lat": "43.3540966",
+                    "lon": "-5.8501302",
+                    "type": "sport center",
+                    "name": "Kontact Sport",
+                    "images": ["https://kontactsport.es/wp-content/uploads/2022/07/entrenamiento_boxeo.png"],
+                    "description": "Gimnasio en Oviedo donde enseñamos, practicamos todo tipo de artes marciales. Con los mejores profesionales y campeones de España. También disponemos de sala de musculación con jaula de crossfit y diferentes maquinas de ejercicio,clases para oposiciones, estrenamientos personales y específicos para grupos e individuales.",
+                    "more": "Actividades: Boxeo, Kick Boxing, MMA, K1, Grappling",
+                    "urls": [ "https://kontactsport.es/" ]
                 },
                 {
                     "id": "uniqueID-2",
