@@ -15,7 +15,7 @@
                     "brand": "#2c76c9",
                     "complementary": "##fcd200"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/es/oviedo/sc",
+                "repository_url": "https://github.com/diegomarty00/poi-quick-app-implementations/tree/main/docs/es/oviedo/sc",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
